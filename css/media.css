@@ -1,0 +1,232 @@
+/**** xlg ****/
+@media(max-width:1400px) {
+	
+}
+/**** lg ****/
+@media(max-width:1200px) {
+	.container{
+		background: ;
+		max-width: 1000px;	
+}
+.bannercontain h1 {
+    font-size: 42px;
+    line-height: 41px;
+    padding: 25px 0;
+}
+
+nav ul {
+    flex-basis: 79%;
+}
+.featurs img {
+    height: 90px;
+    margin-bottom: 7px;
+}
+.featurs{ 
+	padding: 30px 56px ;
+ }
+ .item span {
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 7px;
+}
+.item ul li svg {
+    width: 18px;
+    height: 17px;
+    margin-right: 6px;
+}
+footer {
+    padding: 50px 0 10px;
+}
+h2 {
+    font-size: 22px;
+    line-height: 24px;
+}
+footer p {
+    font-size: 13px;
+}
+.copyright p {
+    font-size: 13px;
+    line-height: 12px;
+}
+
+/**** md ****/
+@media(max-width:992px) {
+	nav ul {
+    flex-basis: 78%;
+}
+.featurs img {
+    height: 75px;
+    margin-bottom: 5px;
+}
+
+.discount h6 {
+    font-size: 37px;
+    line-height: 20px;
+    padding: 25px 0;
+}
+/**** sm ****/
+@media(max-width:768px) {
+	nav {
+    padding: 11px 20px;
+}
+nav ul {
+    flex-basis: 73%;
+}
+
+nav ul li a {
+    font-size: 14px;
+    padding: 10px;
+}
+.bannercontain h1 {
+    font-size: 29px;
+    line-height: 36px;
+    padding: 15px 0;
+}
+.featurs {
+    padding: 18px 19px;
+}
+.discount h6 {
+    font-size: 27px;
+    line-height: 10px;
+    padding: 21px 0;
+}
+.discount p {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 14px;
+    padding: 15px;
+}
+
+.col-1-3 {
+    padding: 5px;
+}
+
+.item {
+    box-shadow: 1px 7px 8px rgba(0, 0, 0, 1.0);
+    padding: 5px;
+}
+.item span {
+    font-size: 11px;
+    line-height: 15px;
+    margin-bottom: 5px;
+}
+
+.GreaterRewardsSection h6 {
+    font-size: 21px;
+    line-height: 30px;
+}
+.feedback {
+    padding: 10px;
+}
+.feedback p {
+    font-size: 11px;
+    line-height: 0px;
+    margin-bottom: 14px;
+}
+.Connect {
+    flex-basis: 29%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+footer ul li a {
+    font-size: 13px;
+    line-height: 9px;
+}
+.copyright p {
+    font-size: 10px;
+    line-height: 12px;
+}
+.btn {
+    font-size: 13px;
+    line-height: 10px;
+    padding: 10px 13px;
+}
+}
+/**** xsm ****/
+@media(max-width:575px) {
+	.logo {
+    flex-basis: 100%;
+    text-align: center;
+}
+nav {
+}
+nav ul {
+    flex-basis: 100%;
+    justify-content: center;
+}
+nav ul li a {
+    font-size: 12px;
+    padding: 5px;
+}
+.bannercontain {
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px 0;
+}
+.bannerimages {
+    flex-basis: 84%;
+    padding: 0;
+}
+header .container {
+	justify-content: center;
+}
+.col-1-4 {
+    flex-basis: 48%;
+}
+.discount h6 {
+    font-size: 17px;
+    line-height: 5px;
+    padding: 10px 0;
+}
+.featurs img {
+    height: 63px;
+    margin-bottom: 5px;
+}
+.featurs {
+    padding: 13px 10px;
+}
+.featurs:hover {
+    background: white;
+    box-shadow: 2px 3px 23px rgba(0, 0, 0, 1.0);
+}
+.col-1-3 {
+    flex-basis: 100%;
+    padding: 30px;
+}
+.costomer {
+    flex-basis: 35%;
+}
+.feedback p {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 16px;
+    text-align: center;
+}
+.Connect {
+    flex-basis: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    text-align: center;
+}
+footer ul li a {
+    font-size: 10px;
+    line-height: 0px;
+}
+.col1_2 {
+    flex-basis: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-evenly;
+}
+.copyright p {
+    font-size: 12px;
+    line-height: 23px;
+    text-align: center;
+    padding: 7px;
+}
+
+}
